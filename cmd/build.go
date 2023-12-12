@@ -7,10 +7,10 @@ package cmd
 import (
 	"fmt"
 
-	"github.com/distributed-technologies/flux-graph/pkg/discover"
-	"github.com/distributed-technologies/flux-graph/pkg/graph"
-	"github.com/distributed-technologies/flux-graph/pkg/kustomization"
-	"github.com/distributed-technologies/flux-graph/pkg/logging"
+	"github.com/madsht/flux-graph/pkg/discover"
+	"github.com/madsht/flux-graph/pkg/graph"
+	"github.com/madsht/flux-graph/pkg/kustomization"
+	"github.com/madsht/flux-graph/pkg/logging"
 	"github.com/spf13/cobra"
 	"github.com/spf13/viper"
 )

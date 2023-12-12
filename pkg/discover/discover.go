@@ -6,8 +6,8 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/distributed-technologies/flux-graph/pkg/helmRelease"
-	"github.com/distributed-technologies/flux-graph/pkg/kustomization"
+	"github.com/madsht/flux-graph/pkg/helmRelease"
+	"github.com/madsht/flux-graph/pkg/kustomization"
 )
 
 // Gets a list of *.yaml files that contains `apiVersion: argocd-discover/v1alpha1` string and generates an ArgoCD application resource that is written to stdout

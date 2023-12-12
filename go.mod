@@ -1,4 +1,4 @@
-module github.com/distributed-technologies/flux-graph
+module github.com/madsht/flux-graph
 
 go 1.18
 

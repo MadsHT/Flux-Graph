@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/distributed-technologies/flux-graph/cmd"
+	"github.com/madsht/flux-graph/cmd"
 )
 
 func main() {

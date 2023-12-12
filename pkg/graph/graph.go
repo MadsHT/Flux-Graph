@@ -4,9 +4,9 @@ import (
 	"strings"
 
 	"github.com/awalterschulze/gographviz"
-	"github.com/distributed-technologies/flux-graph/pkg/helmRelease"
-	"github.com/distributed-technologies/flux-graph/pkg/kustomization"
-	"github.com/distributed-technologies/flux-graph/pkg/logging"
+	"github.com/madsht/flux-graph/pkg/helmRelease"
+	"github.com/madsht/flux-graph/pkg/kustomization"
+	"github.com/madsht/flux-graph/pkg/logging"
 )
 
 type kustomizationGraph struct {
